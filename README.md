@@ -4,7 +4,7 @@
 ### A Fullstack Flutter Developer.
 
 
-- 💻 Seniro Software Engineer at TCS
+- 💻 Senior Software Engineer at TCS
 - ⚡️ I’m was a mentor [@TheUpliftProject](https://github.com/The-Uplift-Project) [@LeanInMSIT](https://leanin.org/circles/lean-in-msit)
 - 🌱 I’m currently learning DevOps skills and Architecture Design for Entripse Applications
 - 💬 Ask me about Flutter, Spring Boot, SQL 
